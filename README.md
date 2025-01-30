@@ -37,6 +37,9 @@ A brief description of what this project does and who it's for
 |`git diff`|Show unstaged changes|
 |`git diff --staged`|Show staged changes|
 |`git rm <file-name>`|Remove/ Delete File |
+|`git push origin <branch-Name>`|Pushes the main branch to origin but does not set upstream (must specify origin main every time).|
+|`git push -u origin <branch-Name>`|Pushes main and sets it as upstream, allowing future git push and git pull without specifying the branch.|
+|`git rm <file-name>`|Remove/ Delete File |
 
 **3. Branching and Merging**
 
