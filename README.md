@@ -35,7 +35,8 @@ A brief description of what this project does and who it's for
 |`git log`|Show commit history|
 |`git show <commit-hash>`|Show details of a specific commit|
 |`git diff`|Show unstaged changes|
-|`git diff --staged`|git diff --staged|
+|`git diff --staged`|Show staged changes|
+|`git rm <file-name>`|Remove/ Delete File |
 
 **3. Branching and Merging**
 
